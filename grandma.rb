@@ -4,9 +4,10 @@ if phrase !
   puts "I love you grandma"
      return "HUH?! SPEAK UP, SONNY!"
       elsif phrase==phrase.upcase
+      puts "I LOVE YOU GRANDMA"
       return "NO, NOT SINCE 1938!" 
     else 
- "I LOVE YOU TOO PUMPKIN"
+      return "I LOVE YOU TOO PUMPKIN"
     end
   end
 
