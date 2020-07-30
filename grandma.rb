@@ -5,7 +5,7 @@ if phrase != phrase.upcase
       elsif phrase=="I LOVE YOU GRANDMA".upcase
       return "pumpkin" 
     else 
-return "NO, NOT SINCE 1938!"
+ "NO, NOT SINCE 1938!"
     end
   end
 
