@@ -5,7 +5,7 @@ if phrase != phrase.upcase()
       elsif phrase=="I LOVE YOU GRANDMA!".upcase
       return "NO, NOT SINCE 1938!"
     else 
-return "I LOVE YOU TOO PUMPKIN"
+return "I LOVE YOU TOO PUMPKIN!"
     end
   end
 
